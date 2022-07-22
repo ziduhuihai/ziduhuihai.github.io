@@ -55,9 +55,9 @@
     
     
     <entry>
-      <title>contact</title>
-      <link href="/blog/contact/index.html"/>
-      <url>/blog/contact/index.html</url>
+      <title>friends</title>
+      <link href="/blog/friends/index.html"/>
+      <url>/blog/friends/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -66,9 +66,9 @@
     
     
     <entry>
-      <title>friends</title>
-      <link href="/blog/friends/index.html"/>
-      <url>/blog/friends/index.html</url>
+      <title>contact</title>
+      <link href="/blog/contact/index.html"/>
+      <url>/blog/contact/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
