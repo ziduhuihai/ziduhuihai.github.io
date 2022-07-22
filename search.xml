@@ -5,8 +5,8 @@
     
     <entry>
       <title>firstPage.md</title>
-      <link href="/blog/2022/07/21/firstPage-md/"/>
-      <url>/blog/2022/07/21/firstPage-md/</url>
+      <link href="/blog/2022/07/21/firstpage-md/"/>
+      <url>/blog/2022/07/21/firstpage-md/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -29,5 +29,62 @@
     
     
   
+  
+    
+    
+    <entry>
+      <title>404</title>
+      <link href="/blog/404/index.html"/>
+      <url>/blog/404/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/blog/categories/index.html"/>
+      <url>/blog/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/blog/tags/index.html"/>
+      <url>/blog/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>friends</title>
+      <link href="/blog/friends/index.html"/>
+      <url>/blog/friends/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>contact</title>
+      <link href="/blog/contact/index.html"/>
+      <url>/blog/contact/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
   
 </search>
