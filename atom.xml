@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>子都</title>
+  
+  <subtitle>“山有扶苏，隰有荷华。不见子都，乃见狂且。山有桥松，隰有游龙。不见子充，乃见狡童。</subtitle>
+  <link href="http://ziduerror.com/atom.xml" rel="self"/>
+  
+  <link href="http://ziduerror.com/"/>
+  <updated>2022-07-21T14:59:31.099Z</updated>
+  <id>http://ziduerror.com/</id>
+  
+  <author>
+    <name>“山有扶苏，隰有荷华。不见子都，乃见狂且。</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>firstPage.md</title>
+    <link href="http://ziduerror.com/2022/07/21/firstpage-md/"/>
+    <id>http://ziduerror.com/2022/07/21/firstpage-md/</id>
+    <published>2022-07-21T14:59:31.000Z</published>
+    <updated>2022-07-21T14:59:31.099Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ziduerror.com/2022/07/21/hello-world/"/>
+    <id>http://ziduerror.com/2022/07/21/hello-world/</id>
+    <published>2022-07-21T14:48:58.081Z</published>
+    <updated>2022-07-21T14:48:58.081Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
