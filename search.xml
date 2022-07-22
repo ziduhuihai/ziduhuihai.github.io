@@ -33,9 +33,9 @@
     
     
     <entry>
-      <title>404</title>
-      <link href="/blog/404/index.html"/>
-      <url>/blog/404/index.html</url>
+      <title>categories</title>
+      <link href="/blog/categories/index.html"/>
+      <url>/blog/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -44,9 +44,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/blog/categories/index.html"/>
-      <url>/blog/categories/index.html</url>
+      <title>tags</title>
+      <link href="/blog/tags/index.html"/>
+      <url>/blog/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -66,9 +66,9 @@
     
     
     <entry>
-      <title>friends</title>
-      <link href="/blog/friends/index.html"/>
-      <url>/blog/friends/index.html</url>
+      <title>404</title>
+      <link href="/blog/404/index.html"/>
+      <url>/blog/404/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,9 +77,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/blog/tags/index.html"/>
-      <url>/blog/tags/index.html</url>
+      <title>friends</title>
+      <link href="/blog/friends/index.html"/>
+      <url>/blog/friends/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
