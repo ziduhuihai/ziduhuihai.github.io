@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>子都</title>
   
-  <subtitle>“山有扶苏，隰有荷华。不见子都，乃见狂且。山有桥松，隰有游龙。不见子充，乃见狡童。</subtitle>
+  <subtitle>“你到底错没错？你说啊！”</subtitle>
   <link href="http://ziduerror.com/atom.xml" rel="self"/>
   
   <link href="http://ziduerror.com/"/>
@@ -10,7 +10,7 @@
   <id>http://ziduerror.com/</id>
   
   <author>
-    <name>“山有扶苏，隰有荷华。不见子都，乃见狂且。</name>
+    <name>山有扶苏，隰有荷华。不见子都，乃见狂且。</name>
     
   </author>
   
